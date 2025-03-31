@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Akshatha 
+### Welcome to my GitHub profile!  
 
-<!--
-**Akshatha-DS/Akshatha-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **Assistant Professor** in the Department of Electrical and Electronics Engineering with a strong interest in **Artificial Intelligence and Data Science**.  
 
-Here are some ideas to get you started:
+### 🔬 About Me:
+- 📚 Currently pursuing a **Executive Post Graduate Certification in Data Science & Artificial Intelligence from iHUB IIT Roorkee**.
+- 🎓 Completed **4 NPTEL certifications** in **Python, Data Science, AI, and Machine Learning**.
+- 🖥️ Exploring **Power BI, MLOps, and SQL** for data-driven decision-making
+- 🔐 Pursuing a **PhD in Cybersecurity**, focusing on **Machine Learning models** for security solutions in Solar PV farms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Interests & Research:
+- AI and ML applications in Cybersecurity 🔍  
+- Data Science for Intelligent Systems 📊  
+- Power BI and SQL for Data Analysis 📈  
+- MLOps for Model Deployment ⚙️  
+  
+
+### 📫 Let's Connect:
+Feel free to explore my repositories and connect with me!  
+You can reach out via **akshatha1r1hegde@gmail.com**.
+
+---
+
+🔹 **Stay curious. Keep learning. Innovate!** 🚀  
